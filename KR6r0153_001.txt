@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:29:14.346224
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:26
 #+TITLE: 道宣律師感通錄
 #+PROPERTY: CBETA_ID T52n2107
 #+PROPERTY: ID KR6r0153
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 52, No. 2107
 #+PROPERTY: VOL 52
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0153_T_000-0435a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0153_T_001-0435a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2107¶
-
- 道宣律師感通錄¶
+No. 2107¶
+道宣律師感通錄¶
 ¶
 麟德元年終南山釋道宣撰¶
 
-宣律師感天侍傳
-:PROPERTIES:
-:head: 宣律師感天侍傳
-:END:
-¶
+* 宣律師感天侍傳¶
 
 余曾見晉太常于寶撰搜神錄述。晉故中牟¶
 令蘇韶。有才識。感冥中卒。乃晝見形於其家。¶
