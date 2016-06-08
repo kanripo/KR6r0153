@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:29:14.346224
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:26
 #+TITLE: 道宣律師感通錄
 #+PROPERTY: CBETA_ID T52n2107
 #+PROPERTY: ID KR6r0153
@@ -18,7 +18,7 @@ No.2107¶
 ¶
 麟德元年終南山釋道宣撰¶
 
-宣律師感天侍傳
+* 宣律師感天侍傳
 :PROPERTIES:
 :head: 宣律師感天侍傳
 :END:
